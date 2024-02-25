@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 33,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Wendy Williams documentary will still air this weekend after legal guardian files lawsuit against Lifetime’s parent company - CNN",
+      "description": "The court-assigned guardian for Wendy Williams failed in their attempt to prevent a revealing documentary about the former talk-show host from airing on Lifetime this weekend, according to a source familiar with the legal proceedings.",
+      "url": "https://www.cnn.com/2024/02/23/entertainment/wendy-williams-documentary-lifetime/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1181695976-20240222191630572.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-23T23:55:00Z",
+      "content": "The court-assigned guardian for Wendy Williams failed in their attempt to prevent a revealing documentary about the former talk-show host from airing on Lifetime this weekend, according to a source f… [+5332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Xavien Howard landing spots: Dolphins releasing one of NFL's most productive corners at start of league year - CBS Sports",
+      "description": "The four-time Pro Bowler will reportedly be designated as a post-June 1 release",
+      "url": "https://www.cbssports.com/nfl/news/xavien-howard-landing-spots-dolphins-releasing-one-of-nfls-most-productive-corners-at-start-of-league-year/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/23/f2107cae-231b-4fb0-af6e-2f351a9c3efc/thumbnail/1200x675/deaed199198765cf383ed99d5f097da9/xavien-howard-2g.jpg",
+      "publishedAt": "2024-02-23T23:32:00Z",
+      "content": "The Miami Dolphins' star-studded defensive backfield of four-time Pro Bowl cornerback Xavien Howard and seven-time Pro Bowl cornerback Jalen Ramsey is no more.\r\nThe Dolphins informed Howard, who had … [+7179 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Luis Martinez, Matt Seyler",
+      "title": "NORAD fighters intercept high-altitude balloon flying over Utah - ABC News",
+      "description": "It was determined to not be a threat to national security, officials said.",
+      "url": "https://abcnews.go.com/Politics/norad-fighter-intercepts-high-altitude-balloon-flying-utah/story?id=107500983",
+      "urlToImage": "https://i.abcnewsfe.com/a/ad87ce22-889e-41fe-afa8-7990c7650227/f-16-jet-rt-jt-240223_1708725105889_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-23T23:15:00Z",
+      "content": "What is being characterized as a small balloon was intercepted by fighter aircraft Friday morning over Utah at an altitude of 43,000 to 45,000 feet and is being allowed to continue to fly above the U… [+1848 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jennifer Hauser, Tara John",
+      "title": "Hungary’s Viktor Orban lauds new phase with Sweden ahead of vote on its NATO bid - CNN",
+      "description": "Hungarian Prime Minister Viktor Orban said his country had opened a new phase with Sweden during a joint press conference as it prepares to ratify Sweden’s long-delayed NATO bid.",
+      "url": "https://www.cnn.com/2024/02/23/europe/hungary-viktor-orban-sweden-nato/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2026348779.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-23T23:14:00Z",
+      "content": "Hungarian Prime Minister Viktor Orban said his country had opened a new phase with Sweden during a joint press conference with Swedish counterpart Ulf Kristersson on Friday as Budapest prepares to ra… [+1904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ukraine says it has downed second Russian A-50 spy plane in weeks - BBC.com",
+      "description": "An A-50 aircraft is reportedly shot down over Russia, more than 200km from the front line.",
+      "url": "https://www.bbc.com/news/world-europe-68387232",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F4C/production/_132304718_e4f1b6671b48d6e1069228d5e44e72aeb7a4ab750_190_3885_21852000x1125.jpg",
+      "publishedAt": "2024-02-23T23:00:33Z",
+      "content": "By Phelan ChatterjeeBBC News\r\nAn A-50 aircraft during a military parade (file photo)\r\nUkraine says it has downed a Russian A-50 military spy plane - the second such claim in just over a month.\r\nThe p… [+1602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Bruce Haring",
+      "title": "‘Barbie’ Wanted John Cena, And He Wanted To Do The Film, But His Agency Said It Was “Beneath Him” - Deadline",
+      "description": "A role in 'Barbie' was offered, but John Cena got some pushback from his agency about doing it.",
+      "url": "http://deadline.com/2024/02/barbie-john-cena-beneath-him-agency-1235836033/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/01/john-cena-wwe-retiring.jpg?w=1024",
+      "publishedAt": "2024-02-23T22:55:00Z",
+      "content": "John Cena knows how to wrestle. And he put that skill to good use when he decided to take a role inBarbiedespite his agency saying the role of a mermaid was “beneath” him.\r\nCena appeared on SiriusXM’… [+1538 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JAMES POLLARD, MICHELLE L. PRICE, MEG KINNARD, BILL BARROW",
+      "title": "Trump says he supports IVF following Alabama embryo ruling - The Associated Press",
+      "description": "Former President Donald Trump says he would “strongly support the availability\" of in vitro fertilization for couples and women who are trying to have a baby. And he's calling on lawmakers in Alabama “to act quickly to find an immediate solution to preserve t…",
+      "url": "https://apnews.com/article/trump-ivf-abortion-alabama-republicans-8215336740a5963b57bbd970b47bb3a7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c192dbb/2147483647/strip/true/crop/4304x2421+0+224/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2Fd7%2F698d4cc1d103d91cf02b9ad7e866%2F6bd73da69f5d43758fe0dfbe7a7c659d",
+      "publishedAt": "2024-02-23T22:53:00Z",
+      "content": "ROCK HILL, S.C. (AP) Former President Donald Trump said Friday that he would strongly support the availability of IVF and called on lawmakers in Alabama to preserve access to the treatment that has b… [+7884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Breck Dumas",
+      "title": "Reddit's public debut could mean big bucks for OpenAI CEO Sam Altman - Fox Business",
+      "description": "Reddit's initial public offering filing reveals OpenAI CEO Sam Altman is the social media platform's third-largest shareholder, meaning he could net a fortune in its debut.",
+      "url": "https://www.foxbusiness.com/markets/reddits-public-debut-could-mean-big-bucks-openai-ceo-sam-altman",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/SAM.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-23T22:45:00Z",
+      "content": "Reddit will make its much-anticipated debut on the New York Stock Exchange in March, and its initial public offering filed this week shows OpenAI CEO Sam Altman stands to make a fortune from the soci… [+2804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Nicole Auerbach",
+      "title": "Federal judge blocks NCAA from enforcing NIL rules - The Athletic",
+      "description": "The ruling leaves the NCAA's NIL rules in flux until the end of the lawsuit brought against the organization by Tennessee and Virginia.",
+      "url": "https://theathletic.com/5295907/2024/02/23/tennessee-ncaa-nil-lawsuit-injunction/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/15225943/GettyImages-1485050975-scaled.jpg",
+      "publishedAt": "2024-02-23T22:30:44Z",
+      "content": "A federal judge on Friday temporarily blocked the NCAA from enforcing its prohibitions against recruits signing monetary deals with booster groups, delivering a significant blow to the NCAAs attempts… [+6822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Nicki Cox",
+      "title": "Travis Kelce's friend Ross finally 'understands' the Taylor Swift hype after seeing 'amazing' 'Eras Tour' in Sydney - Page Six",
+      "description": "Kelce’s best friend Ross Travis seemed to have the time of his life at the concert Friday, dancing and exchanging friendship bracelets with fans.",
+      "url": "https://pagesix.com/2024/02/23/entertainment/travis-kelces-friend-ross-praises-taylor-swifts-amazing-eras-tour-in-sydney/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/02/77047613.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-23T22:27:00Z",
+      "content": "Travis Kelce is converting his friends and family into Swifties one by one. \r\nThe NFL star, 34, attended girlfriend Taylor Swift’s Eras Tour in Sydney on Friday alongside his best friend Ross Travis … [+3680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detroit Free Press"
+      },
+      "author": "Kristen Jordan Shamus",
+      "title": "Oakland County child with measles traveled internationally - Detroit Free Press",
+      "description": "Michigan measles case comes as vaccination rates dip below 85%.",
+      "url": "https://www.freep.com/story/news/health/2024/02/23/michigan-first-measles-case-since-2019-oakland-county-child/72717185007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/2019/04/25/NWKL/ghows-WL-875c732c-99de-123b-e053-0100007f11c9-a1a53fb5.jpeg?crop=2654,1499,x0,y0&width=2654&height=1499&format=pjpg&auto=webp",
+      "publishedAt": "2024-02-23T22:18:58Z",
+      "content": "An Oakland County child has the first confirmed case of measles in Michigan since 2019, the state health department announced Friday.\r\nThe child with the infection traveled internationally recently, … [+3534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Valencia fire: Nine bodies found as Spanish police search gutted flats - BBC.com",
+      "description": "Cladding as well as high winds are being blamed for the flame in the 14-floor complex in Valencia.",
+      "url": "https://www.bbc.com/news/world-europe-68379253",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10146/production/_132726856_df2ad6286f89d504a2d6121c32a5e53f276c79a20_0_5500_36671000x667.jpg",
+      "publishedAt": "2024-02-23T22:00:33Z",
+      "content": "By Paul Kirby in London &amp; Mark Lowen in ValenciaBBC News\r\nWatch: Early videos of Valencia fire show how blaze spread\r\nFirefighters and forensic authorities in Spain say nine bodies have been reco… [+3724 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Joe Ruiz",
+      "title": "2 killed in Mississippi National Guard helicopter crash - CBS News",
+      "description": "The Apache helicopter crashed near Booneville, Mississippi.",
+      "url": "https://www.cbsnews.com/news/mississippi-national-guard-helicopter-crash/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/23/1fc7fb54-4a40-4c23-8d7c-1f52b49ff1cf/thumbnail/1200x630g6/606e2f6f6902091e27abff9b1218f3dd/gettyimages-2019226500.jpg?v=26439302e0bbe3219b6ef78d2fd37ce0",
+      "publishedAt": "2024-02-23T21:57:00Z",
+      "content": "Two Mississippi National Guardsmen died after the helicopter they were in crashed Friday afternoon, the governor of Mississippi said.\r\nThe aircraft, an AH-64 Apache helicopter, crashed near Boonevill… [+483 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "2024 NFL Draft: 10 prospects who could rise during pre-draft process - NFL.com",
+      "description": "Will J.J. McCarthy wow teams in the coming weeks? Bucky Brooks zeroes in on 10 prospects who could be on the rise between now and the 2024 NFL Draft.",
+      "url": "https://www.nfl.com/news/2024-nfl-draft-10-prospects-who-could-rise-during-pre-draft-process",
+      "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/mdcjh6n8z78fcdijojru",
+      "publishedAt": "2024-02-23T21:52:00Z",
+      "content": "Former NFL player and scout Bucky Brooks knows the ins and outs of this league, providing keen insight in his notebook. In today's installment, he clocks 10 prospects who could rise significantly bet… [+8736 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "TERRY SPENCER",
+      "title": "Florida refuses to bar unvaccinated students from school suffering a measles outbreak - The Associated Press",
+      "description": "Florida’s controversial surgeon general is drawing criticism for his handling of an elementary school’s measles outbreak, telling parents of unvaccinated children it is their choice whether their student attends class. Dr. Joseph Ladapo's statement is a direc…",
+      "url": "https://apnews.com/article/measles-outbreak-florida-school-ladapo-259440881f1d5e11dc69ed64ff055418",
+      "urlToImage": "https://dims.apnews.com/dims4/default/90cd51c/2147483647/strip/true/crop/4200x2363+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fb0%2F34aa4afb1cca46fd93a259b14e29%2F88dda20316704627837593fb89d34c47",
+      "publishedAt": "2024-02-23T21:39:31Z",
+      "content": "FORT LAUDERDALE, Fla. (AP) Floridas controversial surgeon general is drawing criticism for his handling of an elementary schools measles outbreak, telling parents of unvaccinated children it is their… [+5617 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Netanyahu Outlines Postwar Gaza Plan That Palestinians Say Means Occupation - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/netanyahu-presents-blueprint-for-postwar-gaza-with-free-rein-for-israeli-military-36b1d53c",
+      "urlToImage": null,
+      "publishedAt": "2024-02-23T21:39:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Nvidia Hits $2 Trillion Valuation on Insatiable AI Chip Demand - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/nvidia-stock-market-cap-2-trillion-b1c839c8",
+      "urlToImage": null,
+      "publishedAt": "2024-02-23T21:25:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Violent, diarrhea-inducing stomach bug spreads in Northeast: 'Incredibly contagious' - New York Post ",
+      "description": "Recent data from the U.S. Centers For Disease Control and Prevention shows that Pennsylvania, New Jersey and New York in particular have the highest positivity rate for the virulent strain.",
+      "url": "https://nypost.com/2024/02/23/lifestyle/diarrhea-inducing-stomach-bug-spreads-incredibly-contagious/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/young-woman-feeling-sick-leaning-77044578.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-23T21:16:03Z",
+      "content": "It’s a noro-easter.\r\nThe norovirus, a hypercontagious stomach bug, is sweeping across the Northeast, causing schools to shutter and citizens to suffer from violent diarrhea and other alarming symptom… [+3971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh, Brian Evans",
+      "title": "Stock market today: Live updates - CNBC",
+      "description": "The S&P 500 and the Dow rose Friday, building on the strong gains seen in the previous session as investors ended the week on a high note.",
+      "url": "https://www.cnbc.com/2024/02/22/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102932824-1572619436767happy.jpg?v=1572619461&w=1920&h=1080",
+      "publishedAt": "2024-02-23T21:02:00Z",
+      "content": "AI-adjacent big tech stocks have propelled the equity market to new highs, but there could still be more room ahead for gains.\r\nIn fact, UBS Private Wealth Management's Greg Marcus believes that inve… [+736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Breck Dumas",
+      "title": "BP manager's husband pleads guilty to insider trading, listened in on wife's work calls - Fox Business",
+      "description": "The husband of a former BP mergers and acquisitions manager pleaded guilty to insider trading after profiting $1.7 million on trades he had made based on listening in on her calls.",
+      "url": "https://www.foxbusiness.com/markets/bp-managers-husband-pleads-guilty-to-insider-trading-listened-in-on-wifes-work-calls",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/BP-logo.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-23T20:55:00Z",
+      "content": "The husband of a former BP manager is facing possible prison time and a divorce after admitting to profiting from stock trades he made based on information he had gleaned from his wife's calls while … [+3147 chars]"
+    }
+  ]
+}
