@@ -76,6 +76,9 @@ dependencies {
     implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
     implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
 
+    //glide
+    implementation("com.github.bumptech.glide:glide:4.16.0")
+
     testImplementation("junit:junit:4.13.2")
     testImplementation("com.google.truth:truth:1.4.1")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.12.0")
