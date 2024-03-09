@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.AbsListView
+import android.widget.SearchView
 import android.widget.Toast
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -15,6 +16,9 @@ import com.example.newsapiclient_mvvmproj2.data.util.Resource
 import com.example.newsapiclient_mvvmproj2.databinding.FragmentNewsBinding
 import com.example.newsapiclient_mvvmproj2.presentation.adapter.NewsAdapter
 import com.example.newsapiclient_mvvmproj2.presentation.viewmodel.NewsViewModel
+import kotlinx.coroutines.MainScope
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 class NewsFragment : Fragment() {
     private lateinit var viewModel: NewsViewModel
@@ -51,6 +55,7 @@ class NewsFragment : Fragment() {
         }
         initRecyclerView()
         viewNewsList()
+        setSearchView()
     }
 
     private fun viewNewsList() {
@@ -126,6 +131,63 @@ class NewsFragment : Fragment() {
                 page++
                 viewModel.getNewsHeadlines(country, page)
                 isScrolling = false
+            }
+        }
+    }
+
+    //Search
+    private fun setSearchView() {
+        fragmentNewsBinding.svNews.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query1: String?): Boolean {
+                viewModel.searchNews("us", query1.toString(), page)
+                viewSearchedNews()
+                return false
+            }
+
+            override fun onQueryTextChange(query2: String?): Boolean {
+                MainScope().launch {
+                    delay(2000)
+                    viewModel.searchNews("us", query2.toString(), page)
+                    viewSearchedNews()
+                }
+                return false
+            }
+        })
+        fragmentNewsBinding.svNews.setOnCloseListener {
+            initRecyclerView()
+            viewNewsList()
+            false
+        }
+    }
+
+    fun viewSearchedNews(){
+        viewModel.searchedNews.observe(viewLifecycleOwner) { response ->
+            when (response) {
+                is Resource.Success -> {
+                    hideProgressBar()
+                    response.data?.let {
+                        Log.d("MUTAG", "came here ${it.articles.toList().size}")
+                        newsAdapter.differ.submitList((it.articles.toList()))
+                        pages = if (it.totalResults % 20 == 0){
+                            it.totalResults/20
+                        } else {
+                            it.totalResults / 20 + 1
+                        }
+                        isLastPage = page == pages
+                    }
+                }
+
+                is Resource.Error -> {
+                    hideProgressBar()
+                    response.message?.let {
+                        Toast.makeText(activity, "An error occurred : $it", Toast.LENGTH_SHORT)
+                            .show()
+                    }
+                }
+
+                is Resource.Loading -> {
+                    showProgressBar()
+                }
             }
         }
     }
