@@ -9,7 +9,7 @@ import java.io.Serializable
 @Entity(tableName = "articles")
 data class Article(
     @PrimaryKey(autoGenerate = true)
-    val id : Int? = null,
+    val id: Int? = null,
     @SerializedName("author")
     val author: String?,
     @SerializedName("content")
@@ -26,4 +26,12 @@ data class Article(
     val url: String?,
     @SerializedName("urlToImage")
     val urlToImage: String?
-) : Serializable
+) : Serializable {
+    override fun hashCode(): Int {
+        var result = id.hashCode()
+        if (url.isNullOrEmpty()) {
+            result = 31 * result + url.hashCode()
+        }
+        return result
+    }
+}
