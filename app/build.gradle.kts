@@ -47,6 +47,7 @@ android {
 dependencies {
     val lifecycleVersion = "2.7.0"
     val nav_version = "2.7.7"
+    val room_version = "2.6.1"
 
 
     implementation("androidx.core:core-ktx:1.12.0")
@@ -78,6 +79,15 @@ dependencies {
 
     //glide
     implementation("com.github.bumptech.glide:glide:4.16.0")
+
+    implementation("androidx.room:room-runtime:$room_version")
+    annotationProcessor("androidx.room:room-compiler:$room_version")
+
+    // To use Kotlin annotation processing tool (kapt)
+    kapt("androidx.room:room-compiler:$room_version")
+
+    // optional - Kotlin Extensions and Coroutines support for Room
+    implementation("androidx.room:room-ktx:$room_version")
 
     testImplementation("junit:junit:4.13.2")
     testImplementation("com.google.truth:truth:1.4.1")
