@@ -1,6 +1,7 @@
 package com.example.newsapiclient_mvvmproj2.presentation.di
 
 import com.example.newsapiclient_mvvmproj2.domain.repository.NewsRepository
+import com.example.newsapiclient_mvvmproj2.domain.usecase.DeleteSavedNewsUseCase
 import com.example.newsapiclient_mvvmproj2.domain.usecase.GetNewsHeadlinesUseCase
 import com.example.newsapiclient_mvvmproj2.domain.usecase.GetSavedNewsUseCase
 import com.example.newsapiclient_mvvmproj2.domain.usecase.GetSearchedNewsUseCase
@@ -44,5 +45,14 @@ class UseCaseModule {
         newsRepository: NewsRepository
     ): GetSavedNewsUseCase {
         return GetSavedNewsUseCase(newsRepository)
+    }
+
+
+    @Singleton
+    @Provides
+    fun provideDeleteSavedNewsUseCase(
+        newsRepository: NewsRepository
+    ): DeleteSavedNewsUseCase {
+        return DeleteSavedNewsUseCase(newsRepository)
     }
 }
